@@ -10,7 +10,7 @@ From previous exploration of our datasets, we hypothesize that where distances b
 
 # Results
 
-Our initial analysis sought to compare the total number of rides to the average fare in each city and group the results by the density of each city. We accomplished this by merging the data sets in Analysis/city_data.csv and Analysis/ride_data.csv. Using matplotlib, we constructed the following:
+Our initial analysis sought to compare the total number of rides to the average fare in each city and group the results by the density of each city. We accomplished this by merging the data sets in Resources/city_data.csv and Resources/ride_data.csv. Using matplotlib, we constructed the following:
 
 ![Fig1, PyBer Ride-Sharing Data](https://github.com/ipbrieske/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
