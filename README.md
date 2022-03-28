@@ -38,7 +38,7 @@ We conclude with this graph to highlight the significant contribution Urban citi
 
 # Summary
 
-From this analysis, we would offer three recommendations to grow PyBer's business:
+From this analysis, we would offer three recommendations to grow PyBer's business
 
 	1. Add more Urban cities to PyBer's portfolio. 
 		- Urban cities account for a sizable percentage of PyBer's income. Adding access to another Urban location has an outsized impact when compared to a city qualified as Rural. 
