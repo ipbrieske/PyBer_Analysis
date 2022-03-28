@@ -38,13 +38,13 @@ We conclude with this graph to highlight the significant contribution Urban citi
 
 # Summary
 
-From this analysis, we would offer three recommendations to grow PyBer's business
+From this analysis, we would offer three recommendations to grow PyBer's business:
 
-	1. Add more Urban cities to PyBer's portfolio. 
-		- Urban cities account for a sizable percentage of PyBer's income. Adding access to another Urban location has an outsized impact when compared to a city qualified as Rural. 
+1. Add more Urban cities to PyBer's portfolio. 
+	- Urban cities account for a sizable percentage of PyBer's income. Adding access to another Urban location has an outsized impact when compared to a city qualified as Rural. 
 
-	2. Encourage drivership in Suburban locations. 
-		- Suburban drivers have generated a greater percentage of PyBer's revenue with a relatively smaller number of drivers. With higher average fares per ride, increasing the number of Suburban drivers would have a positive effect on PyBer's bottom line. 
+2. Encourage drivership in Suburban locations. 
+	- Suburban drivers have generated a greater percentage of PyBer's revenue with a relatively smaller number of drivers. With higher average fares per ride, increasing the number of Suburban drivers would have a positive effect on PyBer's bottom line. 
 
-	3. Incentivize longer trips in Rural cities. 
-		- Rural cities may only account for a small percentage of PyBer's overall business, but still offer great potential. Rural locations show a tendency to have higher fares, a result of longer travel distances and times. Encouraging this type of customer behavior by reducing the fares for longer rides and increasing the fares for shorter rides would respond to current rider demand, thus increasing ridership and therefore overall fares. 
+3. Incentivize longer trips in Rural cities. 
+	- Rural cities may only account for a small percentage of PyBer's overall business, but still offer great potential. Rural locations show a tendency to have higher fares, a result of longer travel distances and times. Encouraging this type of customer behavior by reducing the fares for longer rides and increasing the fares for shorter rides would respond to current rider demand, thus increasing ridership and therefore overall fares. 
